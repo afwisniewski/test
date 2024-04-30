@@ -1,0 +1,11 @@
+Screen3 As screen:
+
+    Label1 As label:
+        Height: =403
+        Size: =50
+        Text: ="hello git"
+        Width: =778
+        X: =32
+        Y: =40
+        ZIndex: =1
+
